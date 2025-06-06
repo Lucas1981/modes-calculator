@@ -1,0 +1,204 @@
+For the key of: Eb
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	EbΔ	Ebm7	Ebm7	EbΔ	Eb7	Ebm7	Ebø
+bII: 	 	 	FbΔ	 	 	 	FbΔ
+II: 	Fm7	Fm7	 	F7	Fm7	Fø	 
+bIII: 	 	GbΔ	Gb7	 	 	GbΔ	Gbm7
+III: 	Gm7	 	 	Gm7	Gø	 	 
+IV: 	AbΔ	Ab7	Abm7	 	AbΔ	Abm7	Abm7
+bV: 	 	 	 	Aø	 	 	BbbΔ
+V: 	Bb7	Bbm7	Bbø	BbΔ	Bbm7	Bbm7	 
+bVI: 	 	 	CbΔ	 	 	CbΔ	Cb7
+VI: 	Cm7	Cø	 	Cm7	Cm7	 	 
+bVII: 	 	DbΔ	Dbm7	 	DbΔ	Db7	Dbm7
+VII: 	Dø	 	 	Dm7	 	 	 
+
+
+For the key of: Bb
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	BbΔ	Bbm7	Bbm7	BbΔ	Bb7	Bbm7	Bbø
+bII: 	 	 	CbΔ	 	 	 	CbΔ
+II: 	Cm7	Cm7	 	C7	Cm7	Cø	 
+bIII: 	 	DbΔ	Db7	 	 	DbΔ	Dbm7
+III: 	Dm7	 	 	Dm7	Dø	 	 
+IV: 	EbΔ	Eb7	Ebm7	 	EbΔ	Ebm7	Ebm7
+bV: 	 	 	 	Eø	 	 	FbΔ
+V: 	F7	Fm7	Fø	FΔ	Fm7	Fm7	 
+bVI: 	 	 	GbΔ	 	 	GbΔ	Gb7
+VI: 	Gm7	Gø	 	Gm7	Gm7	 	 
+bVII: 	 	AbΔ	Abm7	 	AbΔ	Ab7	Abm7
+VII: 	Aø	 	 	Am7	 	 	 
+
+
+For the key of: F
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	FΔ	Fm7	Fm7	FΔ	F7	Fm7	Fø
+bII: 	 	 	GbΔ	 	 	 	GbΔ
+II: 	Gm7	Gm7	 	G7	Gm7	Gø	 
+bIII: 	 	AbΔ	Ab7	 	 	AbΔ	Abm7
+III: 	Am7	 	 	Am7	Aø	 	 
+IV: 	BbΔ	Bb7	Bbm7	 	BbΔ	Bbm7	Bbm7
+bV: 	 	 	 	Bø	 	 	CbΔ
+V: 	C7	Cm7	Cø	CΔ	Cm7	Cm7	 
+bVI: 	 	 	DbΔ	 	 	DbΔ	Db7
+VI: 	Dm7	Dø	 	Dm7	Dm7	 	 
+bVII: 	 	EbΔ	Ebm7	 	EbΔ	Eb7	Ebm7
+VII: 	Eø	 	 	Em7	 	 	 
+
+
+For the key of: C
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	CΔ	Cm7	Cm7	CΔ	C7	Cm7	Cø
+bII: 	 	 	DbΔ	 	 	 	DbΔ
+II: 	Dm7	Dm7	 	D7	Dm7	Dø	 
+bIII: 	 	EbΔ	Eb7	 	 	EbΔ	Ebm7
+III: 	Em7	 	 	Em7	Eø	 	 
+IV: 	FΔ	F7	Fm7	 	FΔ	Fm7	Fm7
+bV: 	 	 	 	F#ø	 	 	GbΔ
+V: 	G7	Gm7	Gø	GΔ	Gm7	Gm7	 
+bVI: 	 	 	AbΔ	 	 	AbΔ	Ab7
+VI: 	Am7	Aø	 	Am7	Am7	 	 
+bVII: 	 	BbΔ	Bbm7	 	BbΔ	Bb7	Bbm7
+VII: 	Bø	 	 	Bm7	 	 	 
+
+
+For the key of: G
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	GΔ	Gm7	Gm7	GΔ	G7	Gm7	Gø
+bII: 	 	 	AbΔ	 	 	 	AbΔ
+II: 	Am7	Am7	 	A7	Am7	Aø	 
+bIII: 	 	BbΔ	Bb7	 	 	BbΔ	Bbm7
+III: 	Bm7	 	 	Bm7	Bø	 	 
+IV: 	CΔ	C7	Cm7	 	CΔ	Cm7	Cm7
+bV: 	 	 	 	C#ø	 	 	DbΔ
+V: 	D7	Dm7	Dø	DΔ	Dm7	Dm7	 
+bVI: 	 	 	EbΔ	 	 	EbΔ	Eb7
+VI: 	Em7	Eø	 	Em7	Em7	 	 
+bVII: 	 	FΔ	Fm7	 	FΔ	F7	Fm7
+VII: 	F#ø	 	 	F#m7	 	 	 
+
+
+For the key of: D
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	DΔ	Dm7	Dm7	DΔ	D7	Dm7	Dø
+bII: 	 	 	EbΔ	 	 	 	EbΔ
+II: 	Em7	Em7	 	E7	Em7	Eø	 
+bIII: 	 	FΔ	F7	 	 	FΔ	Fm7
+III: 	F#m7	 	 	F#m7	F#ø	 	 
+IV: 	GΔ	G7	Gm7	 	GΔ	Gm7	Gm7
+bV: 	 	 	 	G#ø	 	 	AbΔ
+V: 	A7	Am7	Aø	AΔ	Am7	Am7	 
+bVI: 	 	 	BbΔ	 	 	BbΔ	Bb7
+VI: 	Bm7	Bø	 	Bm7	Bm7	 	 
+bVII: 	 	CΔ	Cm7	 	CΔ	C7	Cm7
+VII: 	C#ø	 	 	C#m7	 	 	 
+
+
+For the key of: A
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	AΔ	Am7	Am7	AΔ	A7	Am7	Aø
+bII: 	 	 	BbΔ	 	 	 	BbΔ
+II: 	Bm7	Bm7	 	B7	Bm7	Bø	 
+bIII: 	 	CΔ	C7	 	 	CΔ	Cm7
+III: 	C#m7	 	 	C#m7	C#ø	 	 
+IV: 	DΔ	D7	Dm7	 	DΔ	Dm7	Dm7
+bV: 	 	 	 	D#ø	 	 	EbΔ
+V: 	E7	Em7	Eø	EΔ	Em7	Em7	 
+bVI: 	 	 	FΔ	 	 	FΔ	F7
+VI: 	F#m7	F#ø	 	F#m7	F#m7	 	 
+bVII: 	 	GΔ	Gm7	 	GΔ	G7	Gm7
+VII: 	G#ø	 	 	G#m7	 	 	 
+
+
+For the key of: E
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	EΔ	Em7	Em7	EΔ	E7	Em7	Eø
+bII: 	 	 	FΔ	 	 	 	FΔ
+II: 	F#m7	F#m7	 	F#7	F#m7	F#ø	 
+bIII: 	 	GΔ	G7	 	 	GΔ	Gm7
+III: 	G#m7	 	 	G#m7	G#ø	 	 
+IV: 	AΔ	A7	Am7	 	AΔ	Am7	Am7
+bV: 	 	 	 	A#ø	 	 	BbΔ
+V: 	B7	Bm7	Bø	BΔ	Bm7	Bm7	 
+bVI: 	 	 	CΔ	 	 	CΔ	C7
+VI: 	C#m7	C#ø	 	C#m7	C#m7	 	 
+bVII: 	 	DΔ	Dm7	 	DΔ	D7	Dm7
+VII: 	D#ø	 	 	D#m7	 	 	 
+
+
+For the key of: B
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	BΔ	Bm7	Bm7	BΔ	B7	Bm7	Bø
+bII: 	 	 	CΔ	 	 	 	CΔ
+II: 	C#m7	C#m7	 	C#7	C#m7	C#ø	 
+bIII: 	 	DΔ	D7	 	 	DΔ	Dm7
+III: 	D#m7	 	 	D#m7	D#ø	 	 
+IV: 	EΔ	E7	Em7	 	EΔ	Em7	Em7
+bV: 	 	 	 	E#ø	 	 	FΔ
+V: 	F#7	F#m7	F#ø	F#Δ	F#m7	F#m7	 
+bVI: 	 	 	GΔ	 	 	GΔ	G7
+VI: 	G#m7	G#ø	 	G#m7	G#m7	 	 
+bVII: 	 	AΔ	Am7	 	AΔ	A7	Am7
+VII: 	A#ø	 	 	A#m7	 	 	 
+
+
+For the key of: F#
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	F#Δ	F#m7	F#m7	F#Δ	F#7	F#m7	F#ø
+bII: 	 	 	GΔ	 	 	 	GΔ
+II: 	G#m7	G#m7	 	G#7	G#m7	G#ø	 
+bIII: 	 	AΔ	A7	 	 	AΔ	Am7
+III: 	A#m7	 	 	A#m7	A#ø	 	 
+IV: 	BΔ	B7	Bm7	 	BΔ	Bm7	Bm7
+bV: 	 	 	 	B#ø	 	 	CΔ
+V: 	C#7	C#m7	C#ø	C#Δ	C#m7	C#m7	 
+bVI: 	 	 	DΔ	 	 	DΔ	D7
+VI: 	D#m7	D#ø	 	D#m7	D#m7	 	 
+bVII: 	 	EΔ	Em7	 	EΔ	E7	Em7
+VII: 	E#ø	 	 	E#m7	 	 	 
+
+
+For the key of: C#
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	C#Δ	C#m7	C#m7	C#Δ	C#7	C#m7	C#ø
+bII: 	 	 	DΔ	 	 	 	DΔ
+II: 	D#m7	D#m7	 	D#7	D#m7	D#ø	 
+bIII: 	 	EΔ	E7	 	 	EΔ	Em7
+III: 	E#m7	 	 	E#m7	E#ø	 	 
+IV: 	F#Δ	F#7	F#m7	 	F#Δ	F#m7	F#m7
+bV: 	 	 	 	F##ø	 	 	GΔ
+V: 	G#7	G#m7	G#ø	G#Δ	G#m7	G#m7	 
+bVI: 	 	 	AΔ	 	 	AΔ	A7
+VI: 	A#m7	A#ø	 	A#m7	A#m7	 	 
+bVII: 	 	BΔ	Bm7	 	BΔ	B7	Bm7
+VII: 	B#ø	 	 	B#m7	 	 	 
+
+
+For the key of: G#
+
+Modes:	I	II	III	IV	V	VI	VII
+I: 	G#Δ	G#m7	G#m7	G#Δ	G#7	G#m7	G#ø
+bII: 	 	 	AΔ	 	 	 	AΔ
+II: 	A#m7	A#m7	 	A#7	A#m7	A#ø	 
+bIII: 	 	BΔ	B7	 	 	BΔ	Bm7
+III: 	B#m7	 	 	B#m7	B#ø	 	 
+IV: 	C#Δ	C#7	C#m7	 	C#Δ	C#m7	C#m7
+bV: 	 	 	 	C##ø	 	 	DΔ
+V: 	D#7	D#m7	D#ø	D#Δ	D#m7	D#m7	 
+bVI: 	 	 	EΔ	 	 	EΔ	E7
+VI: 	E#m7	E#ø	 	E#m7	E#m7	 	 
+bVII: 	 	F#Δ	F#m7	 	F#Δ	F#7	F#m7
+VII: 	F##ø	 	 	F##m7	 	 	 
+
+

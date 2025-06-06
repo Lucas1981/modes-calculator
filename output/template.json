@@ -1,0 +1,14 @@
+{
+  "I": ["Δ", "ø", "m7", "7", "Δ", "m7", "m7"],
+  "bII": [null, "Δ", null, null, null, "Δ", null],
+  "II": ["m7", null, "ø", "m7", "7", null, "m7"],
+  "bIII": [null, "m7", "Δ", null, null, "7", "Δ"],
+  "III": ["m7", null, null, "ø", "m7", null, null],
+  "IV": ["Δ", "m7", "m7", "Δ", null, "m7", "7"],
+  "bV": [null, "Δ", null, null, "ø", null, null],
+  "V": ["7", null, "m7", "m7", "Δ", "ø", "m7"],
+  "bVI": [null, "7", "Δ", null, null, "Δ", null],
+  "VI": ["m7", null, null, "m7", "m7", null, "ø"],
+  "bVII": [null, "m7", "7", "Δ", null, "m7", "Δ"],
+  "VII": ["ø", null, null, null, "m7", null, null]
+}

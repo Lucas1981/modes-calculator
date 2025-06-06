@@ -55,9 +55,9 @@ const calculateDistance = (note1, note2) => {
 
 const symbolMap = {
   dominantSeventh: "7",
-  majorSeventh: "maj7",
+  majorSeventh: "Δ",
   minorSeventh: "m7",
-  halfDiminishedSeventh: "°",
+  halfDiminishedSeventh: "ø",
 };
 
 const rearrange = (arr, order) => {
@@ -102,7 +102,7 @@ const getChords = (data, modes) =>
     });
   });
 
-const generateChart = (scale, modes, chords) => {
+const generateTable = (scale, modes, chords) => {
   const results = {
     I: new Array(modes.length).fill(null),
     bII: new Array(modes.length).fill(null),
@@ -157,9 +157,9 @@ const applyTemplate = (template, modes) => {
   return result;
 };
 
-const outputChart = (chart) => {
+const outputTable = (table) => {
   console.log("\nModes:\tI\tII\tIII\tIV\tV\tVI\tVII");
-  Object.entries(chart).forEach(([key, value]) => {
+  Object.entries(table).forEach(([key, value]) => {
     const manipulatedValue = rearrange(value.reverse(), 6);
     console.log(
       `${key}: ${manipulatedValue.map((chord) => `\t${chord || " "}`).join("")}`
@@ -169,9 +169,9 @@ const outputChart = (chart) => {
 
 module.exports = {
   applyTemplate,
-  generateChart,
+  generateTable,
   getChords,
   getModes,
   rearrange,
-  outputChart,
+  outputTable,
 };
