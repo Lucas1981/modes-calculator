@@ -1,0 +1,1322 @@
+{
+  "Eb": {
+    "I": [
+      "Ebmaj7",
+      "Eb°",
+      "Ebm7",
+      "Eb7",
+      "Ebmaj7",
+      "Ebm7",
+      "Ebm7"
+    ],
+    "bII": [
+      null,
+      "Fbmaj7",
+      null,
+      null,
+      null,
+      "Fbmaj7",
+      null
+    ],
+    "II": [
+      "Fm7",
+      null,
+      "F°",
+      "Fm7",
+      "F7",
+      null,
+      "Fm7"
+    ],
+    "bIII": [
+      null,
+      "Gbm7",
+      "Gbmaj7",
+      null,
+      null,
+      "Gb7",
+      "Gbmaj7"
+    ],
+    "III": [
+      "Gm7",
+      null,
+      null,
+      "G°",
+      "Gm7",
+      null,
+      null
+    ],
+    "IV": [
+      "Abmaj7",
+      "Abm7",
+      "Abm7",
+      "Abmaj7",
+      null,
+      "Abm7",
+      "Ab7"
+    ],
+    "bV": [
+      null,
+      "Bbbmaj7",
+      null,
+      null,
+      "A°",
+      null,
+      null
+    ],
+    "V": [
+      "Bb7",
+      null,
+      "Bbm7",
+      "Bbm7",
+      "Bbmaj7",
+      "Bb°",
+      "Bbm7"
+    ],
+    "bVI": [
+      null,
+      "Cb7",
+      "Cbmaj7",
+      null,
+      null,
+      "Cbmaj7",
+      null
+    ],
+    "VI": [
+      "Cm7",
+      null,
+      null,
+      "Cm7",
+      "Cm7",
+      null,
+      "C°"
+    ],
+    "bVII": [
+      null,
+      "Dbm7",
+      "Db7",
+      "Dbmaj7",
+      null,
+      "Dbm7",
+      "Dbmaj7"
+    ],
+    "VII": [
+      "D°",
+      null,
+      null,
+      null,
+      "Dm7",
+      null,
+      null
+    ]
+  },
+  "Bb": {
+    "I": [
+      "Bbmaj7",
+      "Bb°",
+      "Bbm7",
+      "Bb7",
+      "Bbmaj7",
+      "Bbm7",
+      "Bbm7"
+    ],
+    "bII": [
+      null,
+      "Cbmaj7",
+      null,
+      null,
+      null,
+      "Cbmaj7",
+      null
+    ],
+    "II": [
+      "Cm7",
+      null,
+      "C°",
+      "Cm7",
+      "C7",
+      null,
+      "Cm7"
+    ],
+    "bIII": [
+      null,
+      "Dbm7",
+      "Dbmaj7",
+      null,
+      null,
+      "Db7",
+      "Dbmaj7"
+    ],
+    "III": [
+      "Dm7",
+      null,
+      null,
+      "D°",
+      "Dm7",
+      null,
+      null
+    ],
+    "IV": [
+      "Ebmaj7",
+      "Ebm7",
+      "Ebm7",
+      "Ebmaj7",
+      null,
+      "Ebm7",
+      "Eb7"
+    ],
+    "bV": [
+      null,
+      "Fbmaj7",
+      null,
+      null,
+      "E°",
+      null,
+      null
+    ],
+    "V": [
+      "F7",
+      null,
+      "Fm7",
+      "Fm7",
+      "Fmaj7",
+      "F°",
+      "Fm7"
+    ],
+    "bVI": [
+      null,
+      "Gb7",
+      "Gbmaj7",
+      null,
+      null,
+      "Gbmaj7",
+      null
+    ],
+    "VI": [
+      "Gm7",
+      null,
+      null,
+      "Gm7",
+      "Gm7",
+      null,
+      "G°"
+    ],
+    "bVII": [
+      null,
+      "Abm7",
+      "Ab7",
+      "Abmaj7",
+      null,
+      "Abm7",
+      "Abmaj7"
+    ],
+    "VII": [
+      "A°",
+      null,
+      null,
+      null,
+      "Am7",
+      null,
+      null
+    ]
+  },
+  "F": {
+    "I": [
+      "Fmaj7",
+      "F°",
+      "Fm7",
+      "F7",
+      "Fmaj7",
+      "Fm7",
+      "Fm7"
+    ],
+    "bII": [
+      null,
+      "Gbmaj7",
+      null,
+      null,
+      null,
+      "Gbmaj7",
+      null
+    ],
+    "II": [
+      "Gm7",
+      null,
+      "G°",
+      "Gm7",
+      "G7",
+      null,
+      "Gm7"
+    ],
+    "bIII": [
+      null,
+      "Abm7",
+      "Abmaj7",
+      null,
+      null,
+      "Ab7",
+      "Abmaj7"
+    ],
+    "III": [
+      "Am7",
+      null,
+      null,
+      "A°",
+      "Am7",
+      null,
+      null
+    ],
+    "IV": [
+      "Bbmaj7",
+      "Bbm7",
+      "Bbm7",
+      "Bbmaj7",
+      null,
+      "Bbm7",
+      "Bb7"
+    ],
+    "bV": [
+      null,
+      "Cbmaj7",
+      null,
+      null,
+      "B°",
+      null,
+      null
+    ],
+    "V": [
+      "C7",
+      null,
+      "Cm7",
+      "Cm7",
+      "Cmaj7",
+      "C°",
+      "Cm7"
+    ],
+    "bVI": [
+      null,
+      "Db7",
+      "Dbmaj7",
+      null,
+      null,
+      "Dbmaj7",
+      null
+    ],
+    "VI": [
+      "Dm7",
+      null,
+      null,
+      "Dm7",
+      "Dm7",
+      null,
+      "D°"
+    ],
+    "bVII": [
+      null,
+      "Ebm7",
+      "Eb7",
+      "Ebmaj7",
+      null,
+      "Ebm7",
+      "Ebmaj7"
+    ],
+    "VII": [
+      "E°",
+      null,
+      null,
+      null,
+      "Em7",
+      null,
+      null
+    ]
+  },
+  "C": {
+    "I": [
+      "Cmaj7",
+      "C°",
+      "Cm7",
+      "C7",
+      "Cmaj7",
+      "Cm7",
+      "Cm7"
+    ],
+    "bII": [
+      null,
+      "Dbmaj7",
+      null,
+      null,
+      null,
+      "Dbmaj7",
+      null
+    ],
+    "II": [
+      "Dm7",
+      null,
+      "D°",
+      "Dm7",
+      "D7",
+      null,
+      "Dm7"
+    ],
+    "bIII": [
+      null,
+      "Ebm7",
+      "Ebmaj7",
+      null,
+      null,
+      "Eb7",
+      "Ebmaj7"
+    ],
+    "III": [
+      "Em7",
+      null,
+      null,
+      "E°",
+      "Em7",
+      null,
+      null
+    ],
+    "IV": [
+      "Fmaj7",
+      "Fm7",
+      "Fm7",
+      "Fmaj7",
+      null,
+      "Fm7",
+      "F7"
+    ],
+    "bV": [
+      null,
+      "Gbmaj7",
+      null,
+      null,
+      "F#°",
+      null,
+      null
+    ],
+    "V": [
+      "G7",
+      null,
+      "Gm7",
+      "Gm7",
+      "Gmaj7",
+      "G°",
+      "Gm7"
+    ],
+    "bVI": [
+      null,
+      "Ab7",
+      "Abmaj7",
+      null,
+      null,
+      "Abmaj7",
+      null
+    ],
+    "VI": [
+      "Am7",
+      null,
+      null,
+      "Am7",
+      "Am7",
+      null,
+      "A°"
+    ],
+    "bVII": [
+      null,
+      "Bbm7",
+      "Bb7",
+      "Bbmaj7",
+      null,
+      "Bbm7",
+      "Bbmaj7"
+    ],
+    "VII": [
+      "B°",
+      null,
+      null,
+      null,
+      "Bm7",
+      null,
+      null
+    ]
+  },
+  "G": {
+    "I": [
+      "Gmaj7",
+      "G°",
+      "Gm7",
+      "G7",
+      "Gmaj7",
+      "Gm7",
+      "Gm7"
+    ],
+    "bII": [
+      null,
+      "Abmaj7",
+      null,
+      null,
+      null,
+      "Abmaj7",
+      null
+    ],
+    "II": [
+      "Am7",
+      null,
+      "A°",
+      "Am7",
+      "A7",
+      null,
+      "Am7"
+    ],
+    "bIII": [
+      null,
+      "Bbm7",
+      "Bbmaj7",
+      null,
+      null,
+      "Bb7",
+      "Bbmaj7"
+    ],
+    "III": [
+      "Bm7",
+      null,
+      null,
+      "B°",
+      "Bm7",
+      null,
+      null
+    ],
+    "IV": [
+      "Cmaj7",
+      "Cm7",
+      "Cm7",
+      "Cmaj7",
+      null,
+      "Cm7",
+      "C7"
+    ],
+    "bV": [
+      null,
+      "Dbmaj7",
+      null,
+      null,
+      "C#°",
+      null,
+      null
+    ],
+    "V": [
+      "D7",
+      null,
+      "Dm7",
+      "Dm7",
+      "Dmaj7",
+      "D°",
+      "Dm7"
+    ],
+    "bVI": [
+      null,
+      "Eb7",
+      "Ebmaj7",
+      null,
+      null,
+      "Ebmaj7",
+      null
+    ],
+    "VI": [
+      "Em7",
+      null,
+      null,
+      "Em7",
+      "Em7",
+      null,
+      "E°"
+    ],
+    "bVII": [
+      null,
+      "Fm7",
+      "F7",
+      "Fmaj7",
+      null,
+      "Fm7",
+      "Fmaj7"
+    ],
+    "VII": [
+      "F#°",
+      null,
+      null,
+      null,
+      "F#m7",
+      null,
+      null
+    ]
+  },
+  "D": {
+    "I": [
+      "Dmaj7",
+      "D°",
+      "Dm7",
+      "D7",
+      "Dmaj7",
+      "Dm7",
+      "Dm7"
+    ],
+    "bII": [
+      null,
+      "Ebmaj7",
+      null,
+      null,
+      null,
+      "Ebmaj7",
+      null
+    ],
+    "II": [
+      "Em7",
+      null,
+      "E°",
+      "Em7",
+      "E7",
+      null,
+      "Em7"
+    ],
+    "bIII": [
+      null,
+      "Fm7",
+      "Fmaj7",
+      null,
+      null,
+      "F7",
+      "Fmaj7"
+    ],
+    "III": [
+      "F#m7",
+      null,
+      null,
+      "F#°",
+      "F#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "Gmaj7",
+      "Gm7",
+      "Gm7",
+      "Gmaj7",
+      null,
+      "Gm7",
+      "G7"
+    ],
+    "bV": [
+      null,
+      "Abmaj7",
+      null,
+      null,
+      "G#°",
+      null,
+      null
+    ],
+    "V": [
+      "A7",
+      null,
+      "Am7",
+      "Am7",
+      "Amaj7",
+      "A°",
+      "Am7"
+    ],
+    "bVI": [
+      null,
+      "Bb7",
+      "Bbmaj7",
+      null,
+      null,
+      "Bbmaj7",
+      null
+    ],
+    "VI": [
+      "Bm7",
+      null,
+      null,
+      "Bm7",
+      "Bm7",
+      null,
+      "B°"
+    ],
+    "bVII": [
+      null,
+      "Cm7",
+      "C7",
+      "Cmaj7",
+      null,
+      "Cm7",
+      "Cmaj7"
+    ],
+    "VII": [
+      "C#°",
+      null,
+      null,
+      null,
+      "C#m7",
+      null,
+      null
+    ]
+  },
+  "A": {
+    "I": [
+      "Amaj7",
+      "A°",
+      "Am7",
+      "A7",
+      "Amaj7",
+      "Am7",
+      "Am7"
+    ],
+    "bII": [
+      null,
+      "Bbmaj7",
+      null,
+      null,
+      null,
+      "Bbmaj7",
+      null
+    ],
+    "II": [
+      "Bm7",
+      null,
+      "B°",
+      "Bm7",
+      "B7",
+      null,
+      "Bm7"
+    ],
+    "bIII": [
+      null,
+      "Cm7",
+      "Cmaj7",
+      null,
+      null,
+      "C7",
+      "Cmaj7"
+    ],
+    "III": [
+      "C#m7",
+      null,
+      null,
+      "C#°",
+      "C#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "Dmaj7",
+      "Dm7",
+      "Dm7",
+      "Dmaj7",
+      null,
+      "Dm7",
+      "D7"
+    ],
+    "bV": [
+      null,
+      "Ebmaj7",
+      null,
+      null,
+      "D#°",
+      null,
+      null
+    ],
+    "V": [
+      "E7",
+      null,
+      "Em7",
+      "Em7",
+      "Emaj7",
+      "E°",
+      "Em7"
+    ],
+    "bVI": [
+      null,
+      "F7",
+      "Fmaj7",
+      null,
+      null,
+      "Fmaj7",
+      null
+    ],
+    "VI": [
+      "F#m7",
+      null,
+      null,
+      "F#m7",
+      "F#m7",
+      null,
+      "F#°"
+    ],
+    "bVII": [
+      null,
+      "Gm7",
+      "G7",
+      "Gmaj7",
+      null,
+      "Gm7",
+      "Gmaj7"
+    ],
+    "VII": [
+      "G#°",
+      null,
+      null,
+      null,
+      "G#m7",
+      null,
+      null
+    ]
+  },
+  "E": {
+    "I": [
+      "Emaj7",
+      "E°",
+      "Em7",
+      "E7",
+      "Emaj7",
+      "Em7",
+      "Em7"
+    ],
+    "bII": [
+      null,
+      "Fmaj7",
+      null,
+      null,
+      null,
+      "Fmaj7",
+      null
+    ],
+    "II": [
+      "F#m7",
+      null,
+      "F#°",
+      "F#m7",
+      "F#7",
+      null,
+      "F#m7"
+    ],
+    "bIII": [
+      null,
+      "Gm7",
+      "Gmaj7",
+      null,
+      null,
+      "G7",
+      "Gmaj7"
+    ],
+    "III": [
+      "G#m7",
+      null,
+      null,
+      "G#°",
+      "G#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "Amaj7",
+      "Am7",
+      "Am7",
+      "Amaj7",
+      null,
+      "Am7",
+      "A7"
+    ],
+    "bV": [
+      null,
+      "Bbmaj7",
+      null,
+      null,
+      "A#°",
+      null,
+      null
+    ],
+    "V": [
+      "B7",
+      null,
+      "Bm7",
+      "Bm7",
+      "Bmaj7",
+      "B°",
+      "Bm7"
+    ],
+    "bVI": [
+      null,
+      "C7",
+      "Cmaj7",
+      null,
+      null,
+      "Cmaj7",
+      null
+    ],
+    "VI": [
+      "C#m7",
+      null,
+      null,
+      "C#m7",
+      "C#m7",
+      null,
+      "C#°"
+    ],
+    "bVII": [
+      null,
+      "Dm7",
+      "D7",
+      "Dmaj7",
+      null,
+      "Dm7",
+      "Dmaj7"
+    ],
+    "VII": [
+      "D#°",
+      null,
+      null,
+      null,
+      "D#m7",
+      null,
+      null
+    ]
+  },
+  "B": {
+    "I": [
+      "Bmaj7",
+      "B°",
+      "Bm7",
+      "B7",
+      "Bmaj7",
+      "Bm7",
+      "Bm7"
+    ],
+    "bII": [
+      null,
+      "Cmaj7",
+      null,
+      null,
+      null,
+      "Cmaj7",
+      null
+    ],
+    "II": [
+      "C#m7",
+      null,
+      "C#°",
+      "C#m7",
+      "C#7",
+      null,
+      "C#m7"
+    ],
+    "bIII": [
+      null,
+      "Dm7",
+      "Dmaj7",
+      null,
+      null,
+      "D7",
+      "Dmaj7"
+    ],
+    "III": [
+      "D#m7",
+      null,
+      null,
+      "D#°",
+      "D#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "Emaj7",
+      "Em7",
+      "Em7",
+      "Emaj7",
+      null,
+      "Em7",
+      "E7"
+    ],
+    "bV": [
+      null,
+      "Fmaj7",
+      null,
+      null,
+      "E#°",
+      null,
+      null
+    ],
+    "V": [
+      "F#7",
+      null,
+      "F#m7",
+      "F#m7",
+      "F#maj7",
+      "F#°",
+      "F#m7"
+    ],
+    "bVI": [
+      null,
+      "G7",
+      "Gmaj7",
+      null,
+      null,
+      "Gmaj7",
+      null
+    ],
+    "VI": [
+      "G#m7",
+      null,
+      null,
+      "G#m7",
+      "G#m7",
+      null,
+      "G#°"
+    ],
+    "bVII": [
+      null,
+      "Am7",
+      "A7",
+      "Amaj7",
+      null,
+      "Am7",
+      "Amaj7"
+    ],
+    "VII": [
+      "A#°",
+      null,
+      null,
+      null,
+      "A#m7",
+      null,
+      null
+    ]
+  },
+  "F#": {
+    "I": [
+      "F#maj7",
+      "F#°",
+      "F#m7",
+      "F#7",
+      "F#maj7",
+      "F#m7",
+      "F#m7"
+    ],
+    "bII": [
+      null,
+      "Gmaj7",
+      null,
+      null,
+      null,
+      "Gmaj7",
+      null
+    ],
+    "II": [
+      "G#m7",
+      null,
+      "G#°",
+      "G#m7",
+      "G#7",
+      null,
+      "G#m7"
+    ],
+    "bIII": [
+      null,
+      "Am7",
+      "Amaj7",
+      null,
+      null,
+      "A7",
+      "Amaj7"
+    ],
+    "III": [
+      "A#m7",
+      null,
+      null,
+      "A#°",
+      "A#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "Bmaj7",
+      "Bm7",
+      "Bm7",
+      "Bmaj7",
+      null,
+      "Bm7",
+      "B7"
+    ],
+    "bV": [
+      null,
+      "Cmaj7",
+      null,
+      null,
+      "B#°",
+      null,
+      null
+    ],
+    "V": [
+      "C#7",
+      null,
+      "C#m7",
+      "C#m7",
+      "C#maj7",
+      "C#°",
+      "C#m7"
+    ],
+    "bVI": [
+      null,
+      "D7",
+      "Dmaj7",
+      null,
+      null,
+      "Dmaj7",
+      null
+    ],
+    "VI": [
+      "D#m7",
+      null,
+      null,
+      "D#m7",
+      "D#m7",
+      null,
+      "D#°"
+    ],
+    "bVII": [
+      null,
+      "Em7",
+      "E7",
+      "Emaj7",
+      null,
+      "Em7",
+      "Emaj7"
+    ],
+    "VII": [
+      "E#°",
+      null,
+      null,
+      null,
+      "E#m7",
+      null,
+      null
+    ]
+  },
+  "C#": {
+    "I": [
+      "C#maj7",
+      "C#°",
+      "C#m7",
+      "C#7",
+      "C#maj7",
+      "C#m7",
+      "C#m7"
+    ],
+    "bII": [
+      null,
+      "Dmaj7",
+      null,
+      null,
+      null,
+      "Dmaj7",
+      null
+    ],
+    "II": [
+      "D#m7",
+      null,
+      "D#°",
+      "D#m7",
+      "D#7",
+      null,
+      "D#m7"
+    ],
+    "bIII": [
+      null,
+      "Em7",
+      "Emaj7",
+      null,
+      null,
+      "E7",
+      "Emaj7"
+    ],
+    "III": [
+      "E#m7",
+      null,
+      null,
+      "E#°",
+      "E#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "F#maj7",
+      "F#m7",
+      "F#m7",
+      "F#maj7",
+      null,
+      "F#m7",
+      "F#7"
+    ],
+    "bV": [
+      null,
+      "Gmaj7",
+      null,
+      null,
+      "F##°",
+      null,
+      null
+    ],
+    "V": [
+      "G#7",
+      null,
+      "G#m7",
+      "G#m7",
+      "G#maj7",
+      "G#°",
+      "G#m7"
+    ],
+    "bVI": [
+      null,
+      "A7",
+      "Amaj7",
+      null,
+      null,
+      "Amaj7",
+      null
+    ],
+    "VI": [
+      "A#m7",
+      null,
+      null,
+      "A#m7",
+      "A#m7",
+      null,
+      "A#°"
+    ],
+    "bVII": [
+      null,
+      "Bm7",
+      "B7",
+      "Bmaj7",
+      null,
+      "Bm7",
+      "Bmaj7"
+    ],
+    "VII": [
+      "B#°",
+      null,
+      null,
+      null,
+      "B#m7",
+      null,
+      null
+    ]
+  },
+  "G#": {
+    "I": [
+      "G#maj7",
+      "G#°",
+      "G#m7",
+      "G#7",
+      "G#maj7",
+      "G#m7",
+      "G#m7"
+    ],
+    "bII": [
+      null,
+      "Amaj7",
+      null,
+      null,
+      null,
+      "Amaj7",
+      null
+    ],
+    "II": [
+      "A#m7",
+      null,
+      "A#°",
+      "A#m7",
+      "A#7",
+      null,
+      "A#m7"
+    ],
+    "bIII": [
+      null,
+      "Bm7",
+      "Bmaj7",
+      null,
+      null,
+      "B7",
+      "Bmaj7"
+    ],
+    "III": [
+      "B#m7",
+      null,
+      null,
+      "B#°",
+      "B#m7",
+      null,
+      null
+    ],
+    "IV": [
+      "C#maj7",
+      "C#m7",
+      "C#m7",
+      "C#maj7",
+      null,
+      "C#m7",
+      "C#7"
+    ],
+    "bV": [
+      null,
+      "Dmaj7",
+      null,
+      null,
+      "C##°",
+      null,
+      null
+    ],
+    "V": [
+      "D#7",
+      null,
+      "D#m7",
+      "D#m7",
+      "D#maj7",
+      "D#°",
+      "D#m7"
+    ],
+    "bVI": [
+      null,
+      "E7",
+      "Emaj7",
+      null,
+      null,
+      "Emaj7",
+      null
+    ],
+    "VI": [
+      "E#m7",
+      null,
+      null,
+      "E#m7",
+      "E#m7",
+      null,
+      "E#°"
+    ],
+    "bVII": [
+      null,
+      "F#m7",
+      "F#7",
+      "F#maj7",
+      null,
+      "F#m7",
+      "F#maj7"
+    ],
+    "VII": [
+      "F##°",
+      null,
+      null,
+      null,
+      "F##m7",
+      null,
+      null
+    ]
+  }
+}

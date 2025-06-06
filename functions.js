@@ -66,6 +66,23 @@ const rearrange = (arr, order) => {
   return [...secondHalf, ...firstHalf];
 };
 
+const getModes = (baseNote, data) => {
+  // Get the "mirror image" of the base scale, which is a minor sixth above the base note
+  const minorThird = data[baseNote]["minor"]["scale"][5];
+
+  const unorderedMirrorScale = data[minorThird]["major"]["scale"];
+
+  // Rearrange so we get the order right
+  const mirrorScale = rearrange(unorderedMirrorScale, 2); // Rearranging to start from the minor third
+
+  // Get all the modes of the base scale
+  return mirrorScale.map((note) => {
+    const scale = data[note]["major"]["scale"];
+    const order = scale.indexOf(baseNote);
+    return rearrange(scale, order);
+  });
+};
+
 const getChords = (data, modes) =>
   modes.map((mode, modeIndex) => {
     const doubleMode = [...mode, ...mode];
@@ -122,37 +139,25 @@ const generateChart = (scale, modes, chords) => {
   return results;
 };
 
-(function main() {
-  const rawData = fs.readFileSync("./scales-and-chords.json", "utf8");
-  const data = JSON.parse(rawData);
+const applyTemplate = (template, modes) => {
+  const result = {};
+  modes.forEach((mode, modeIndex) => {
+    let noteIndex = 0;
+    Object.entries(template).forEach(([roman, arr]) => {
+      if (!result[roman]) {
+        result[roman] = [];
+      }
 
-  // Set the base note
-  const baseNote = "E";
-
-  // Get the "mirror image" of the base scale, which is a minor sixth above the base note
-  const minorThird = data[baseNote]["minor"]["scale"][5];
-  const unorderedMirrorScale = data[minorThird]["major"]["scale"];
-
-  // Rearrange so we get the order right
-  const mirrorScale = rearrange(unorderedMirrorScale, 2); // Rearranging to start from the minor third
-
-  // Get all the modes of the base scale
-  const modes = mirrorScale.map((note) => {
-    const scale = data[note]["major"]["scale"];
-    const order = scale.indexOf(baseNote);
-    return rearrange(scale, order);
+      result[roman].push(
+        arr[modeIndex] === null ? null : `${mode[noteIndex++]}${arr[modeIndex]}`
+      );
+    });
   });
 
-  // Get all the seventh chords for each mode
-  const chords = getChords(data, modes);
+  return result;
+};
 
-  // console.log("Modal scales");
-  // console.log(modes);
-  // console.log("\nChords");
-  // console.log(chords);
-
-  const chart = generateChart(data[baseNote]["major"]["scale"], modes, chords);
-
+const outputChart = (chart) => {
   console.log("\nModes:\tI\tII\tIII\tIV\tV\tVI\tVII");
   Object.entries(chart).forEach(([key, value]) => {
     const manipulatedValue = rearrange(value.reverse(), 6);
@@ -160,4 +165,13 @@ const generateChart = (scale, modes, chords) => {
       `${key}: ${manipulatedValue.map((chord) => `\t${chord || " "}`).join("")}`
     );
   });
-})();
+};
+
+module.exports = {
+  applyTemplate,
+  generateChart,
+  getChords,
+  getModes,
+  rearrange,
+  outputChart,
+};

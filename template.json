@@ -1,0 +1,110 @@
+{
+  "I": [
+    "maj7",
+    "°",
+    "m7",
+    "7",
+    "maj7",
+    "m7",
+    "m7"
+  ],
+  "bII": [
+    null,
+    "maj7",
+    null,
+    null,
+    null,
+    "maj7",
+    null
+  ],
+  "II": [
+    "m7",
+    null,
+    "°",
+    "m7",
+    "7",
+    null,
+    "m7"
+  ],
+  "bIII": [
+    null,
+    "m7",
+    "maj7",
+    null,
+    null,
+    "7",
+    "maj7"
+  ],
+  "III": [
+    "m7",
+    null,
+    null,
+    "°",
+    "m7",
+    null,
+    null
+  ],
+  "IV": [
+    "maj7",
+    "m7",
+    "m7",
+    "maj7",
+    null,
+    "m7",
+    "7"
+  ],
+  "bV": [
+    null,
+    "maj7",
+    null,
+    null,
+    "°",
+    null,
+    null
+  ],
+  "V": [
+    "7",
+    null,
+    "m7",
+    "m7",
+    "maj7",
+    "°",
+    "m7"
+  ],
+  "bVI": [
+    null,
+    "7",
+    "maj7",
+    null,
+    null,
+    "maj7",
+    null
+  ],
+  "VI": [
+    "m7",
+    null,
+    null,
+    "m7",
+    "m7",
+    null,
+    "°"
+  ],
+  "bVII": [
+    null,
+    "m7",
+    "7",
+    "maj7",
+    null,
+    "m7",
+    "maj7"
+  ],
+  "VII": [
+    "°",
+    null,
+    null,
+    null,
+    "m7",
+    null,
+    null
+  ]
+}
